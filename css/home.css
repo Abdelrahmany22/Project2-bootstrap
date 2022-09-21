@@ -165,9 +165,9 @@ color: white;
     background-color: rgb(254, 227, 180);
     position: relative;
     padding-top: 50px;
-    display: flex;
+    /* display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-around; */
     padding-bottom: 50px;
 }
 .section2 .yemin{
